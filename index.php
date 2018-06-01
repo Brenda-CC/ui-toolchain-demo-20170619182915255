@@ -104,7 +104,7 @@ function orderItem(itemID){
 
 
 
-<!-- <img id="berlin" src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops">
+<img id="berlin" src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops">
 
 <img id="berlin2" src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops">
 
@@ -114,7 +114,7 @@ function orderItem(itemID){
 
 <img id="pong" src="http://upload.wikimedia.org/wikipedia/commons/b/b6/Mesa_de_ping_pong%2C_Riesstr.%2C_M%C3%BAnich%2C_Alemania_2012-04-28%2C_DD_01.JPG" height="25%" width="25%" alt="Oops">
 
-<img id="portugal" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Praia_da_Rocha-Portimao_%28Portugal%29_%2833512845665%29.jpg" height="25%" width="25%" alt="Oops"> -->
+<img id="portugal" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Praia_da_Rocha-Portimao_%28Portugal%29_%2833512845665%29.jpg" height="25%" width="25%" alt="Oops">
 	
 
 
